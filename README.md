@@ -2,5 +2,5 @@
 
 ## Результат вы можете посмотреть тут 
 
-[Работа car-rental](https://efremovva.github.io/input-control/)
+[Работа car-rental](https://efremovva.github.io/car-rental/)
 
